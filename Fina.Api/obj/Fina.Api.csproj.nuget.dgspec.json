@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Api\\Fina.Api.csproj": {}
+    "C:\\workspace\\Fina\\Fina.Api\\Fina.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Api\\Fina.Api.csproj": {
+    "C:\\workspace\\Fina\\Fina.Api\\Fina.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Api\\Fina.Api.csproj",
+        "projectUniqueName": "C:\\workspace\\Fina\\Fina.Api\\Fina.Api.csproj",
         "projectName": "Fina.Api",
-        "projectPath": "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Api\\Fina.Api.csproj",
-        "packagesPath": "C:\\Users\\vpinhosantos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Api\\obj\\",
+        "projectPath": "C:\\workspace\\Fina\\Fina.Api\\Fina.Api.csproj",
+        "packagesPath": "C:\\Users\\Thinkpad E14\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\Fina\\Fina.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vpinhosantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Thinkpad E14\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Core\\Fina.Core.csproj": {
-                "projectPath": "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Core\\Fina.Core.csproj"
+              "C:\\workspace\\Fina\\Fina.Core\\Fina.Core.csproj": {
+                "projectPath": "C:\\workspace\\Fina\\Fina.Core\\Fina.Core.csproj"
               }
             }
           }
@@ -71,24 +69,22 @@
         }
       }
     },
-    "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Core\\Fina.Core.csproj": {
+    "C:\\workspace\\Fina\\Fina.Core\\Fina.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Core\\Fina.Core.csproj",
+        "projectUniqueName": "C:\\workspace\\Fina\\Fina.Core\\Fina.Core.csproj",
         "projectName": "Fina.Core",
-        "projectPath": "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Core\\Fina.Core.csproj",
-        "packagesPath": "C:\\Users\\vpinhosantos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vpinhosantos\\studyspace\\balta\\Fina\\Fina.Core\\obj\\",
+        "projectPath": "C:\\workspace\\Fina\\Fina.Core\\Fina.Core.csproj",
+        "packagesPath": "C:\\Users\\Thinkpad E14\\.nuget\\packages\\",
+        "outputPath": "C:\\workspace\\Fina\\Fina.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vpinhosantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Thinkpad E14\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
